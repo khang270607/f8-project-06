@@ -326,6 +326,10 @@ body {
   margin-top: 30px;
 }
 
+.client--group-logo {
+  cursor: pointer;
+}
+
 /* port */
 .port {
   padding-top: 120px;
@@ -1181,6 +1185,7 @@ input[type="radio"]:checked+.port--lable::before {
 }
 
 .footer--text {
+  cursor: pointer;
   color: #525771;
   font-size: 1.8rem;
   line-height: 1.67;
@@ -1204,6 +1209,7 @@ input[type="radio"]:checked+.port--lable::before {
 }
 
 .footer--text-3 {
+  cursor: pointer;
   color: #525771;
   font-size: 1.8rem;
   line-height: 1.67;
